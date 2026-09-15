@@ -7,6 +7,8 @@
 [![Certificates Included](https://img.shields.io/badge/Certificates-Verifiable%20Digital-orange.svg)](https://www.lucebra.com)
 [![33 Locales](https://img.shields.io/badge/Languages-33%20Locales-blue.svg)](https://www.lucebra.com)
 [![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34a853.svg?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
+[![App Store](https://img.shields.io/badge/App_Store-iOS-000000.svg?logo=apple&logoColor=white)](https://apps.apple.com/us/app/lucebra/id6754839631)
 
 ---
 
@@ -86,6 +88,20 @@ flowchart LR
 - 🗣️ **Public Speaking Masterclass:** [TJ Walker Masterclasses](https://www.lucebra.com/instructor/tjwalker)
 - 🤝 **Workplace Negotiation:** [Master Workplace Negotiation: Skills & Tactics](https://www.lucebra.com/courses/masterworkplacenegotiationskillsstrategiestacticstrends)
 - 💼 **Strategic Leadership:** [Peter Alkema IT Strategy](https://www.lucebra.com/instructor/peteralkema)
+
+---
+
+
+---
+
+## 📱 Learn on the Go — Official Lucebra Mobile Apps
+
+Study anytime, anywhere with offline video streaming, audio mode, quiz practice, and instant verifiable certificates on iOS and Android:
+
+| Platform | Direct Store Link | Availability |
+| :--- | :--- | :---: |
+| 🍏 **Apple App Store (iOS & iPadOS)** | [👉 **Download on the App Store**](https://apps.apple.com/us/app/lucebra/id6754839631) | Free Download |
+| 🤖 **Google Play Store (Android)** | [👉 **Get it on Google Play**](https://play.google.com/store/apps/details?id=com.lucebra.app) | Free Download |
 
 ---
 
